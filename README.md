@@ -9,3 +9,5 @@ This edit was done on github server.
 This edit was done on my PC in android studio
 
 Another comment added of the github server.
+
+This is an edit from on the local branch new-from-android-studio
