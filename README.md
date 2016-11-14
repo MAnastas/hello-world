@@ -13,3 +13,5 @@ Another comment added of the github server.
 This is an edit from on the local branch new-from-android-studio
 
 This is a second edit from on the local branch new-from-android-studio
+
+This is a 3rd edit
